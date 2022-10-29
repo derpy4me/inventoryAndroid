@@ -8,21 +8,20 @@ The user will also be able to sell purchased items. Money will be displayed and 
 This project gave me the opportunity to develop an application of my choice using the Android Studio IDE and Kotlin.  
 This was a learning experience where I learned xml, Kotlin and using the designer provided with the Android Studio IDE.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/-nqRE-qB-bs)
 
 # Development Environment
 
 I used the Android Studio IDE Kotlin to build this application.
 
-
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [The Complete Android 12 & Kotlin Development](https://www.udemy.com/share/102JUu3@IjHFVB0rvj363PEuIjJ-bgDMPrwKt8N2DAMW2RkYYQXF3S8dk64CPaDMGcnxy_yG/)
+- [The Complete Android 12 & Kotlin Development](https://www.udemy.com/share/102JUu3@IjHFVB0rvj363PEuIjJ-bgDMPrwKt8N2DAMW2RkYYQXF3S8dk64CPaDMGcnxy_yG/)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* More randomly generated items to buy
-* Different layouts for each action
-* A more beautiful UI
+
+- More randomly generated items to buy
+- Different layouts for each action
+- A more beautiful UI
